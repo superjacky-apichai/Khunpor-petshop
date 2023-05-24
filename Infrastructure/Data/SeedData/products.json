@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Bravo-dog3mix-Breef-20kg",
+    "Description": "อาหารสุนัข20กิโล เกรดพรีเมียม วิตามิน/โปรตีนครบตามความต้องการของสุนัข ขนาดเม็ดอาหารเล็กเหมาะสำหรับสุนัขทุกขนาด",
+    "Price": 650,
+    "PictureUrl": "images/products/Bravo-dog3mixBreef.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Bravo-dog3mix-Liver-20kg",
+    "Description": "อาหารสุนัข20กิโล เกรดพรีเมียม วิตามิน/โปรตีนครบตามความต้องการของสุนัข ขนาดเม็ดอาหารเล็กเหมาะสำหรับสุนัขทุกขนาด",
+    "Price": 650,
+    "PictureUrl": "images/products/Bravo-dog3mixLiver.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Bravo-dog-Lamp-10kg",
+    "Description": "อาหารสุนัข10กิโล เกรดพรีเมียม วิตามิน/โปรตีนครบตามความต้องการของสุนัข ขนาดเม็ดอาหารเล็กเหมาะสำหรับสุนัขทุกขนาด",
+    "Price": 320,
+    "PictureUrl": "images/products/Bravo-doglamp.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Kaniva-Indoor",
+    "Description": "Kaniva Indoor 2.8 kg อาหารแมวสูตรเลี้ยงในบ้าน ลดกลิ่นอึฉี่",
+    "Price": 520,
+    "PictureUrl": "images/products/Kaniva-Indoor",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Kaniva-Lamp-Tuna",
+    "Description": "Kaniva อาหารแมวพรีเมียมที่อุดมไปด้วยคุณค่าสารอาหารตามมาตรฐานของกองควบคุมอาหารสัตว์เลี้ยงแห่งสหรัฐอเมริกา (AAFCO) ทางเราคัดสรรวัตถุดิบคุณภาพสูงเพื่อแมว “ขนสวย เงางาม สุขภาพดี” ",
+    "Price": 520,
+    "PictureUrl": "images/products/Kaniva-lamptuna.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Kaniva-Salmon-Tuna",
+    "Description": "Kaniva อาหารแมวพรีเมียมที่อุดมไปด้วยคุณค่าสารอาหารตามมาตรฐานของกองควบคุมอาหารสัตว์เลี้ยงแห่งสหรัฐอเมริกา (AAFCO) ทางเราคัดสรรวัตถุดิบคุณภาพสูงเพื่อแมว “ขนสวย เงางาม สุขภาพดี” ",
+    "Price": 520,
+    "PictureUrl": "images/products/Kaniva-salmontuna.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Meo-can",
+    "Description": "มีโอ อาหารแมวชนิดเปียกที่ผลิตจากวัตถุดิบคุณภาพดี เต็มไปด้วยเนื้อปลาที่มีคุณค่าทางอาหารครบถ้วน ให้รสชาติที่หอมอร่อย เป็นที่ชื่นชอบของแมวทุกสายพันธุ์",
+    "Price": 45,
+    "PictureUrl": "images/products/Meo-can.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Meo-Kitten-1.1kg",
+    "Description": " เพราะเราอยากเห็นลูกแมวตัวน้อยเติบโตอย่างแข็งแรงสมบูรณ์ ร่าเริงสมวัยทุกวัน เราจึงคัดสรรเนื้อปลาแท้ๆ และนมแหล่งโปรตีน มาผลิตเป็นอาหารที่มีรสชาติแสนอร่อย",
+    "Price": 135,
+    "PictureUrl": "images/products/Meo-kttien.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Meo-Mother&Babycat-1kg",
+    "Description": "สำหรับแม่แมวตั้งท้อง และลูกแมวหลังหย่านมอายุ 1-4 เดือน",
+    "Price": 155,
+    "PictureUrl": "images/products/Meo-mother_babaycat.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "PurinaOne-Kitten-1.2kg",
+    "Description": "'อาหารลูกแมวทุกสายพันธุ์ อายุ 3 สัปดาห์  1 ปีครบคุณค่าทางโภชนาการ ให้ลูกแมวของคุณ มี 6 สัญญาณสุขภาพดี ",
+    "Price": 390,
+    "PictureUrl": "images/products/PurinaOne-Kitten.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "PurinaOne-Treat",
+    "Description": "ขนมแมวที่แสนอร่อย เพื่อสุขภาพด้วย ชวนลิ้มลองนะคะ",
+    "Price": 75,
+    "PictureUrl": "images/products/PurinaOne-Treat.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "PurunaOne-Indoor-1.2kg",
+    "Description": "เพียวริน่า วัน อาหารแมวชนิดเม็ด สูตรสำหรับแมวเลี้ยงในบ้าน ผลิตจากวัตถุดิบคุณภาพสูง ทั้งใยอาหารสูงจากธรรมชาติ",
+    "Price": 390,
+    "PictureUrl": "images/products/PurunaOne-Indoor.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Rotto-Cat-20kg",
+    "Description": "Rotto Cat 20 Kg. อาหารแมว รสปลาทู (มีโปรตีนจากเนื้อปลา) มีทอรีน สำหรับแมวโต 1 ปีขึ้นไป (20 กิโลกรัม/กระสอบ)",
+    "Price": 890,
+    "PictureUrl": "images/products/Rotto-cat20kg.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Rotto-Dog-10kg",
+    "Description": "Rotto Dog 10 Kg. อาหารสุนัข สูตร 1 (มีโปรตีนจากเนื้อสัตว์ 18%) สำหรับสุนัขโตทุกสายพันธุ์ (10 กิโลกรัม/กระสอบ)",
+    "Price": 350,
+    "PictureUrl": "images/products/Rotto-dog10kg.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "SmartHeart-Can",
+    "Description": "Smartheart สมาทฮาร์ท อาหารเปียกสุนัข 400 g. อาหารเปียกกระป๋อง",
+    "Price": 45,
+    "PictureUrl": "images/products/SmartHeart-Can.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "SmartHeartTreat",
+    "Description": "เสริม Sodium Hexametaphosphate ช่วยลดการสะสมของคราบหินปูน ลดการเกิดฟันผุ เหงือกอักเสบ และกลิ่นปาก",
+    "Price": 25,
+    "PictureUrl": "images/products/SmartHeartTreat.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "SmartHeart-Wet",
+    "Description": "SmartHeart Pouch  สมาร์ทฮาร์ท อาหารเปียกสุนัขแบบซอง 120 -130กรัม",
+    "Price": 25,
+    "PictureUrl": "images/products/SmartHeart-Wet.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "SmartHert-cat",
+    "Description": "สมาร์ทฮาร์ท อาหารสำหรับแมวทุกสายพันธุ์ ขนาด 1.1-1.2kg",
+    "Price": 180,
+    "PictureUrl": "images/products/SmartHert-cat",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  }
+]

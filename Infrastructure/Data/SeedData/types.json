@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Dry foods"
+  },
+  {
+    "Id": 2,
+    "Name": "Wet foods"
+  },
+  {
+    "Id": 3,
+    "Name": "Can foods"
+  },
+  {
+    "Id": 4,
+    "Name": "Treats"
+  }
+]
